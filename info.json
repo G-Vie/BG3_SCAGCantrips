@@ -1,9 +1,9 @@
 {
     "mods": [
     {
-        "modName": "Sword Meets Sorcery - Sorcerer",
-        "UUID": "7615400f-e336-4e01-9b32-7e1eda938e17",
-        "folderName": "SwordMSorcery",
+        "modName": "SCAG Cantrips",
+        "UUID": "4425d606-5b5a-4e07-b922-9d28c8fadb0e",
+        "folderName": "BladeCantrips",
         "version": "1",
         "MD5": ""
     }
