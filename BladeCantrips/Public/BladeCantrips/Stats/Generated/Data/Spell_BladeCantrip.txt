@@ -1,4 +1,4 @@
-new entry "Target_Greenflame_Blade"
+new entry "Target_GreenFlameBlade;Target_BoomingBlade;Projectile_LightningLure"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_MainHandAttack"

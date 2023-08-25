@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children> 
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Druid Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_BoomingBlade;Projectile_LightningLure;Target_Guidance;Projectile_PoisonSpray;Shout_ProduceFlame;Target_Resistance;Shout_Shillelagh;Target_ThornWhip"/>
+                    <attribute id="UUID" type="guid" value="b8faf12f-ca42-45c0-84f8-6951b526182a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Druid spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_BoomingBlade;Projectile_LightningLure;Target_Guidance;Projectile_PoisonSpray;Shout_ProduceFlame;Target_Resistance;Shout_Shillelagh;Target_ThornWhip;Target_AnimalFriendship;Target_CharmPerson;Target_CreateDestroyWater;Target_CureWounds;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Goodberry;Target_HealingWord;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals;Zone_Thunderwave;Target_Barkskin;Target_Darkvision;Target_EnhanceAbility;Shout_FlameBlade;Target_FlamingSphere;Target_HeatMetal;Target_HoldPerson;Target_LesserRestoration;Target_Moonbeam;Shout_PassWithoutTrace;Target_ProtectionFromPoison;Target_SpikeGrowth;Target_CallLightning;Target_ProtectionFromEnergy;Target_PlantGrowth;Target_SleetStorm;Target_Daylight_Container;Target_FeignDeath;Projectile_IceKnife;Target_Blight;Target_IceStorm;Target_Stoneskin;Target_Confusion;Target_DominateBeast;Target_Polymorph;Target_FreedomOfMovement;Target_ConjureElementals_Minor_Container;Target_ConjureWoodlandBeings;Target_GraspingVine;Target_InsectPlague;Target_GreaterRestoration;Target_CureWounds_Mass;Target_PlanarBinding;Target_Contagion;Target_ConjureElemental_Container;Zone_Sunbeam;Target_Heal;Shout_HeroesFeast;Shout_WindWalk"/>
+                    <attribute id="UUID" type="guid" value="fd366d4e-4063-4b6f-9cd9-26889bcd6465"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
