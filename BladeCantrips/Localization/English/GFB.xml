@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="hea0ee5b2gead3g483dgac54gb15677e75ce1" version="1">Green-Flame Blade</content>
-	<content contentuid="h6605cfe1g78afg47fega598g72952130c8c2" version="1">Strike with a flaming weapon, causing flames to lash out to a nearby target and deal [1].</content>
+	<content contentuid="70d336bc-94f6-4bad-a8b8-5944fa9ab350" version="1">Green-Flame Blade</content>
+	<content contentuid="9b0579a5-8a2d-4127-ac47-0cd8582e0027" version="1">Strike with a flaming weapon, causing flames to lash out to a nearby target and deal [1].</content>
 	<content contentuid="h6527cd74gaacdg4c0dgaebag06650e5c8995" version="1">Deal damage to nearby target.</content>
 	
-	<content contentuid="h2153b2acgbc72g4106gb648g3c2482b20372" version="1">Booming Blade</content>
-	<content contentuid="h3babf4d4g8dceg4359ga0eege9774fa5a012" version="1">Imbue your weapon with resonating energy and strike. If they move before the end of their turn, they take [1].</content>
+	<content contentuid="06ccff5b-74f8-4871-a26d-66436d5da6d5" version="1">Booming Blade</content>
+	<content contentuid="aa20553d-362b-4ff6-b5d9-5c70e4e37e59" version="1">Imbue your weapon with resonating energy and strike. If they move before the end of their turn, they take [1].</content>
 	<content contentuid="h83515922gbbcfg45e6g93c2g4561e7a46afc" version="1">If the target moves before the end of their turn, they take [1].</content>
 
-	
+	<content contentuid="c745619a-bd5a-4e1e-8a08-68600ac69062" version="1">Lightning Lure</content>
+	<content contentuid="ec9c8bcc-b22f-4bc5-bd68-b79e5ee020bb" version="1">Strike a creature with a lightning whip that pulls the creature [2] closer to you.</content>
 </contentList>

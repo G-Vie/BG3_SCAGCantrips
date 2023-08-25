@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="hea0ee5b2gead3g483dgac54gb15677e75ce1" version="1">Lame des flammes vertes</content>
-	<content contentuid="h6605cfe1g78afg47fega598g72952130c8c2" version="1">Frappez avec une arme enflammée, les flammes se dirigent vers une cible proche et lui infligent [1] .</content>
+	<content contentuid="70d336bc-94f6-4bad-a8b8-5944fa9ab350" version="1">Lame des flammes vertes</content>
+	<content contentuid="9b0579a5-8a2d-4127-ac47-0cd8582e0027" version="1">Frappez avec une arme enflammée, les flammes se dirigent vers une cible proche et lui infligent [1] .</content>
 	<content contentuid="h6527cd74gaacdg4c0dgaebag06650e5c8995" version="1">Inflige des dégâts à la cible proche.</content>
 	
-	<content contentuid="h2153b2acgbc72g4106gb648g3c2482b20372" version="1">Lame retentissante</content>
-	<content contentuid="h3babf4d4g8dceg4359ga0eege9774fa5a012" version="1">Imprégnez votre arme d'énergie résonnante et frappez. S'ils se déplacent avant la fin de leur tour, ils subissent [1] .</content>
+	<content contentuid="06ccff5b-74f8-4871-a26d-66436d5da6d5" version="1">Lame retentissante</content>
+	<content contentuid="aa20553d-362b-4ff6-b5d9-5c70e4e37e59" version="1">Imprégnez votre arme d'énergie résonnante et frappez. S'ils se déplacent avant la fin de leur tour, ils subissent [1] .</content>
 	<content contentuid="h83515922gbbcfg45e6g93c2g4561e7a46afc" version="1">Si la cible se déplace avant la fin de son tour, elle subit [1] .</content>
 
 	
