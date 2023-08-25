@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children> 
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric cantrips (Wisdom)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Thaumaturgy;Target_SacredFlame;Target_Guidance;Target_Resistance;Target_Light;Shout_BladeWard;Shout_ProduceFlame;Target_BoomingBlade;Projectile_LightningLure;Target_Greenflame_Blade"/>
+                    <attribute id="UUID" type="guid" value="2f43a103-5bf1-4534-b14f-663decc0c525"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_AnimateDead;Shout_BeaconOfHope;Target_BestowCurse;Target_Daylight_Container;Target_FeignDeath;Target_GlyphOfWarding;Shout_HealingWord_Mass;Target_ProtectionFromEnergy;Target_RemoveCurse;Teleportation_Revivify;Target_SpeakWithDead;Shout_SpiritGuardians;Zone_LightningBolt"/>
+                    <attribute id="UUID" type="guid" value="21be0992-499f-4c7a-a77a-4430085e947a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric SLevel 6"/>
+                    <attribute id="Spells" type="LSString" value="Wall_BladeBarrier;Target_CreateUndead;Target_Harm;Target_Heal;Shout_HeroesFeast;Target_PlanarAlly_Container;Projectile_ChainLightning"/>
+                    <attribute id="UUID" type="guid" value="f8ba7b05-1237-4eaa-97fa-1d3623d5862b"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Cleric spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_Bane;Target_Bless;Target_Command_Container;Target_CreateDestroyWater;Target_CureWounds;Projectile_GuidingBolt;Target_HealingWord;Target_InflictWounds;Target_ProtectionFromEvilAndGood;Target_ShieldOfFaith;Shout_Aid;Target_Blindness;Target_EnhanceAbility;Target_HoldPerson;Target_LesserRestoration;Shout_PrayerOfHealing;Target_ProtectionFromPoison;Target_Silence;Target_AnimateDead;Shout_BeaconOfHope;Target_BestowCurse;Target_Daylight_Container;Target_FeignDeath;Target_GlyphOfWarding;Shout_HealingWord_Mass;Target_ProtectionFromEnergy;Target_RemoveCurse;Teleportation_Revivify;Target_SpeakWithDead;Shout_SpiritGuardians;Target_Command_Container;Target_Sanctuary;Target_SpiritualWeapon;Target_WardingBond;Target_Banishment;Target_DeathWard;Target_FreedomOfMovement;Target_GuardianOfFaith;Target_FlameStrike;Target_InsectPlague;Target_GreaterRestoration;Target_CureWounds_Mass;Shout_DispelEvilAndGood;Target_PlanarBinding;Target_Contagion;Target_CreateUndead;Target_Harm;Target_Heal;Shout_HeroesFeast;Zone_LightningBolt;Projectile_LightningLure;Target_BoomingBlade;Target_Greenflame_Blade;Projectile_ChainLightning"/>
+                    <attribute id="UUID" type="guid" value="42acd9d3-3b44-4d08-a061-3fd2f69aa4bf"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
