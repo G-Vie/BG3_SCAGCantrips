@@ -1,7 +1,7 @@
 new entry "BOOMING_BLADE_1"
 type "StatusData"
 data "StatusType" "BOOST"
-data "DisplayName" "h2153b2acgbc72g4106gb648g3c2482b20372;1"
+data "DisplayName" "06ccff5b-74f8-4871-a26d-66436d5da6d5;1"
 data "Description" "h83515922gbbcfg45e6g93c2g4561e7a46afc;1"
 data "DescriptionParams" "DealDamage(1d8,Thunder)"
 data "TooltipDamageList" "DealDamage(1d8,Thunder)"
