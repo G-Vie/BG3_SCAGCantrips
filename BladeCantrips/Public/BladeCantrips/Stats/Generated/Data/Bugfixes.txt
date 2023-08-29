@@ -9,6 +9,7 @@ data "Boosts" "IF(IsSpell() and IsDamageTypeFire() and not HasStringInSpellRoll(
 new entry "GFB_DAMAGE_BONUS"
 type "StatusData"
 data "StatusType" "BOOST"
-data "DisplayName" "h249e93e4g907fg410cg83ddgdb9e20201e51;3"
+data "DisplayName" "06ccff5b-74f8-4871-a26d-66436d5da6d5;1"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
 data "StackId" "GFB_DAMAGE_BONUS"
 data "Boosts" "IF(SpellId('Target_GreenFlameBlade')):CharacterWeaponDamage(1d8,Fire)"
