@@ -1,0 +1,11 @@
+new entry "WPN_ShadowBlade_3"
+type "Weapon"
+using "WPN_ShadowBlade"
+data "RootTemplate" "6ce1a1d7-6911-4478-9c70-c692f2e5ea94"
+data "Damage" "3d8"
+
+new entry "WPN_ShadowBlade_5"
+type "Weapon"
+using "WPN_ShadowBlade"
+data "RootTemplate" "8cfcada1-ab98-4d9e-8de5-ffa8608255bd"
+data "Damage" "4d8"
