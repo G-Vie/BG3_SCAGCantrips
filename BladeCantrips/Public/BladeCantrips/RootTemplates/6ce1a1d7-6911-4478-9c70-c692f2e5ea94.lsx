@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="6ce1a1d7-6911-4478-9c70-c692f2e5ea94"" />
+					<attribute id="MapKey" type="FixedString" value="6ce1a1d7-6911-4478-9c70-c692f2e5ea94" />
 					<attribute id="Name" type="LSString" value="UNI_HUM_ShadowBlade" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
