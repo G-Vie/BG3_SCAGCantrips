@@ -1,0 +1,1 @@
+Ext.Require("SCAGCantrips_BOOST.lua")

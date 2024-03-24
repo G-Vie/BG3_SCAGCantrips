@@ -1,17 +1,47 @@
 {
-    "FileVersion": 1,
-    "Lists": [
-      {
-        "Action": "Insert",
-        "UUIDs": ["f5c4af9c-5d8d-4526-9057-94a4b243cd40", "485a68b4-c678-4888-be63-4a702efbe391", "3cae2e56-9871-4cef-bba6-96845ea765fa", "2ba5248a-f014-409d-ab26-b50116f7e477", "32879c22-4858-48ef-8f8d-22e6d395b396", "beb9389e-24f8-49b0-86a5-e8d08b6fdc2e"],
-        "Type": "SpellList",
-        "Items": ["Target_GreenFlameBlade", "Target_BoomingBlade", "Target_LightningLure"]
-      },
-        {
-          "Action": "Insert",
-          "UUIDs": ["f80396e2-cb76-4694-b0db-5c34da61a478", "dcbaf2ae-1f45-453e-ab83-cd154f8277a4", "5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c", "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53", "1270a6db-980b-4e3b-bf26-2924da61dfd5"],
-          "Type": "SpellList",
-          "Items": ["GV_Shout_ShadowBlade"]
-        }
-    ]
+  "FileVersion": 1,
+  "Lists": [
+    {
+      "Action": "Insert",
+      "UUIDs": ["f5c4af9c-5d8d-4526-9057-94a4b243cd40", "485a68b4-c678-4888-be63-4a702efbe391", "3cae2e56-9871-4cef-bba6-96845ea765fa", "2ba5248a-f014-409d-ab26-b50116f7e477", "32879c22-4858-48ef-8f8d-22e6d395b396", "beb9389e-24f8-49b0-86a5-e8d08b6fdc2e"],
+      "Type": "SpellList",
+      "Items": ["Target_GreenFlameBlade", "Target_BoomingBlade", "Projectile_LightningLure"]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": ["f9fd64f1-f417-4544-94a9-51d8876d68df"],
+      "Type": "SpellList",
+      "Items": ["Shout_ShadowBlade"]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": ["f80396e2-cb76-4694-b0db-5c34da61a478", "dcbaf2ae-1f45-453e-ab83-cd154f8277a4", "5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c", "3276fcfe-e143-4559-b6e0-7d7aa0ffcb53", "1270a6db-980b-4e3b-bf26-2924da61dfd5"],
+      "Type": "SpellList",
+      "Items": ["Shout_ShadowBlade"]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": ["80c6b070-c3a6-4864-84ca-e78626784eb", "22755771-ca11-49f4-b772-13d8b8fecd93", "820b1220-0385-426d-ae15-458dc8a6f5c0", "f781a25e-d288-43b4-bf5d-3d8d98846687","bc917f22-7f71-4a25-9a77-7d2f91a96a65"],
+      "Type": "SpellList",
+      "Items": ["Shout_ShadowBlade"]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": ["0cc2c8ab-9bbc-43a7-a66d-08e47da4c172", "f18ad912-e2f4-47a9-8744-73d6a51c2941", "c3d8a4a5-9dae-4193-8322-a5d1c5b89f47","0a9b924f-64fb-4f22-b975-5eeedc99b2fd"],
+      "Type": "SpellList",
+      "Items": ["Shout_ShadowBlade"]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": ["835aeca7-c64a-4aaa-a25c-143aa14a5cec", "5dec41aa-f16a-434e-b209-50c07e64e4ed", "7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d", "deab57bf-4eec-4085-82f7-87335bce3f5d"],
+      "Type": "SpellList",
+      "Items": ["Shout_ShadowBlade"]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": ["fe101a94-8619-49b2-859d-a68c2c291054","30e9b761-6be0-418e-bb28-5103c00c663b", "b64e527e-1f97-4125-84f7-78376ab1440b", "6d2edca9-71a7-4f3f-89f0-fccfff0bdee5"],
+      "Type": "SpellList",
+      "Items": ["Shout_ShadowBlade"]
+    } 
+  ]
 }

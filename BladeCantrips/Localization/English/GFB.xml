@@ -9,5 +9,5 @@
 	<content contentuid="h83515922gbbcfg45e6g93c2g4561e7a46afc" version="1">If the target moves before the end of their turn, they take [1].</content>
 
 	<content contentuid="c745619a-bd5a-4e1e-8a08-68600ac69062" version="1">Lightning Lure</content>
-	<content contentuid="ec9c8bcc-b22f-4bc5-bd68-b79e5ee020bb" version="1">Strike a creature with a lightning whip that deals [1] pulls the creature [2] closer to you.</content>
+	<content contentuid="ec9c8bcc-b22f-4bc5-bd68-b79e5ee020bb" version="1">Strike a creature with a lightning whip that deals [1] and pulls the creature [2] closer to you.</content>
 </contentList>

@@ -1,3 +1,5 @@
-function BladeCantripCheck()
-    return (SpellId('Target_BoomingBlade') | SpellId('Target_GreenFlameBlade')) 
+function WeaponAttackSpell()
+    return (SHasStringInSpellRoll('WeaponAttack') & IsSpell()) 
 end
+
+
