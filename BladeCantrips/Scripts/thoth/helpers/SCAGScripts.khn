@@ -1,5 +1,5 @@
 function WeaponAttackSpell()
-    return (SHasStringInSpellRoll('WeaponAttack') & IsSpell()) 
+    return (IsWeaponAttack() & IsSpell()) 
 end
 
 
