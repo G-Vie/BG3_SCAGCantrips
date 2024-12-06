@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 11,
+    "ModTable": "BladeCantrips_5315fad8-5d7e-476d-b303-1644b438ec9d",
+    "FeatureFlags": ["Lua"]
+}
